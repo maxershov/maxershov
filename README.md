@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World!
+### I'm Max. Frontend Developer from Russia
 
-<!--
-**maxershov/maxershov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Portfolio Page](https://maxershov.herokuapp.com/ "open portfolio page")
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects:
+
+* [CRM for Klokov&BazaTeam Crossfit club](https://github.com/maxershov/webcrm "webcrm github repository")
+
+* [Telegram bot for YouTube Music](https://github.com/maxershov/telegram-youtube-bot "telegram-youtube-bot github repository")
+
+* [My Portfolio Page](https://github.com/maxershov/Max-Ershov-Site "portfolio github repository")
