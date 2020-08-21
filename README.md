@@ -1,7 +1,7 @@
 ### Hello World!
 ### I'm Max. Frontend Developer from Russia
 
-[Portfolio Page](https://maxershov.herokuapp.com/ "open portfolio page")
+[Portfolio Page](https://maksershov.ru/ "open portfolio page")
 
 
 #### Projects:
