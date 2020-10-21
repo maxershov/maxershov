@@ -4,7 +4,7 @@
 [Portfolio Page](https://maksershov.ru/ "open portfolio page")
 
 
-[Docker Hub](https://hub.docker.com/repository/docker/maxershov/)
+[Docker Hub](https://hub.docker.com/u/maxershov)
 
 #### Projects:
 
