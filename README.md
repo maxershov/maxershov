@@ -1,5 +1,6 @@
 ### Hello World!
-### I'm Max. Frontend Developer from Russia
+### Max. Frontend Developer from Russia
+### Ozon Travel
 
 [Portfolio Page](https://maksershov.ru/ "open portfolio page")
 
