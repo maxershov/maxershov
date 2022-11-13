@@ -1,5 +1,5 @@
 ### Hello World!
-### Max. Frontend Developer from Russia
+### My name is Max. Frontend Developer/TeamLead
 ### Ozon Travel
 
 [Portfolio Page](https://maksershov.ru/ "open portfolio page")
@@ -15,4 +15,4 @@
 
 * [Lightweight landing for Klokov&BazaTeam Crossfit club](https://maksershov.ru/kbteam/ "kbteam.ru page")
 
-* [My Portfolio Page](https://github.com/maxershov/Max-Ershov-Site "portfolio github repository")
+* [Old Portfolio Page](https://github.com/maxershov/Max-Ershov-Site "portfolio github repository")
