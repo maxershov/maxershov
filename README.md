@@ -13,6 +13,6 @@
 
 * [Telegram bot for YouTube Music](https://github.com/maxershov/telegram-youtube-bot "telegram-youtube-bot github repository")
 
-* [Lightweight landing for Klokov&BazaTeam Crossfit club](https://kbteam.ru "kbteam.ru page")
+* [Lightweight landing for Klokov&BazaTeam Crossfit club](https://maksershov.ru/kbteam/ "kbteam.ru page")
 
 * [My Portfolio Page](https://github.com/maxershov/Max-Ershov-Site "portfolio github repository")
